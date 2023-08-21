@@ -1,6 +1,10 @@
 # Useful-Scripts
 Userful Powershell scripts i made to save time 
-includes: [ UserList Exporting (csv) | Computer Exporting (csv) | Inactive Uesrs (csv) | User Backup  ] 
+includes: 
+UserList Exporting (csv)  
+Computer Exporting (csv) 
+Inactive Uesrs (csv) 
+User Backup  
 
 
 UserList Exporting (csv) - 
