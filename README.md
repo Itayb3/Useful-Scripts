@@ -11,6 +11,9 @@ Script that checks  how many computers are in a chosen OU and export a list to c
 Inactive Users (csv) - 
 Script that checks in a chosen OU for every inactive user (my parameter was 90 days), and export a list to csv
 
+30 Days Password Reset Script (CSV) - 
+Checks how many passwords were being reset in the last 30 days and exports a list of every users to CSV on the current user desktop
+
 User Backup - 
 Script that backups the current logged user to a network/shared folder 
 
@@ -21,3 +24,4 @@ only works on windows 2008 R2 and above.
 Permission Copy Script - 
 Copy Every Security Group from one user to another, can save a ton of time in many cases where your org uses a "Role-Based Access Control"
 i had fun using it while watching my peers copy groups one by one.
+
