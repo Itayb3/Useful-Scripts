@@ -1,11 +1,6 @@
 # Useful-Scripts
 Userful Powershell scripts i made to save time 
 includes: 
-UserList Exporting (csv)  
-Computer Exporting (csv) 
-Inactive Uesrs (csv) 
-User Backup  
-
 
 UserList Exporting (csv) - 
 Script that checks  how many users are in a chosen OU and export a list to csv that includes the username and its status (enabled/disabled)
