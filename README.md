@@ -25,3 +25,6 @@ Permission Copy Script -
 Copy Every Security Group from one user to another, can save a ton of time in many cases where your org uses a "Role-Based Access Control"
 i had fun using it while watching my peers copy groups one by one.
 
+Create Schedule Task (on every computer in a chosen OU) -
+Script that create a schedule task that runs a script on every computer in a chosen OU, the task runs on daily basis.
+please change the parameters i highlighted in the script to fit your needs :)
