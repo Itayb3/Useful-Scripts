@@ -17,3 +17,7 @@ Script that backups the current logged user to a network/shared folder
 Recycle Bin Activation -
 Script that activates the recycle bin feature on active directory.
 only works on windows 2008 R2 and above.
+
+Permission Copy Script - 
+Copy Every Security Group from one user to another, can save a ton of time in many cases where your org uses a "Role-Based Access Control"
+i had fun using it while watching my peers copy groups one by one.
