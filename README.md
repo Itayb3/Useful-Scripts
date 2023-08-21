@@ -13,3 +13,7 @@ Script that checks in a chosen OU for every inactive user (my parameter was 90 d
 
 User Backup - 
 Script that backups the current logged user to a network/shared folder 
+
+Recycle Bin Activation -
+Script that activates the recycle bin feature on active directory.
+only works on windows 2008 R2 and above.
